@@ -27,5 +27,5 @@ Quio uses commands to manipulate cells. When Quio starts, the first memory cell 
 | I       | Decrement the first memory cell                                   |
 | R       | Reverse the order of the memory cells                             |
 | K       | Swap the data of the first and second memory cells                |
-| P       | Move the first cell to the end and replace it with an empty cell  |
-| O       | Print the unicode value of cell zero                              |
+| P       | Push the first cell to the end and replace it with an empty cell  |
+| O       | Print the unicode value of cell zero's value                      |
