@@ -1,0 +1,14 @@
+{
+    "name": "quio",
+    "version": "1.0.0",
+    "description": "Quio: a minimal esoteric programming language",
+    "main": "utils/generator",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {
+        "generate": "node utils/generator"
+    },
+    "author": "Joey Malvinni",
+    "license": "Apache-2.0"
+}
