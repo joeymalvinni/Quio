@@ -21,7 +21,7 @@ To generate Quio scripts to print output, see `/utils/generator.js`
 Quio uses commands to manipulate cells. When Quio starts, the first memory cell is initialized to zero. 
 
 | Command | Description                                                       |
-| :----:  |    :----:                                                         |
+| :----:  | :----                                                             |
 | Q       | Main entry point                                                  |
 | U       | Increment the first memory cell                                   |
 | I       | Decrement the first memory cell                                   |
